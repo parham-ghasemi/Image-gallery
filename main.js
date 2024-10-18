@@ -1,4 +1,4 @@
-var target_date = new Date().getTime() + (1000 * 10); // set the countdown date (1 minute from now)
+var target_date = new Date().getTime() + (1000 * 20); // set the countdown date (1 minute from now)
 var days, hours, minutes, seconds; // variables for time units
 
 var countdown = document.getElementById("tiles"); // get tag element
